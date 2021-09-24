@@ -1,7 +1,7 @@
 
 
 # Hackintosh with an AMD CPU and GPU 
-**[WIP - Do not follow these instructions as it is not complete.]**
+**[WIP]**
  
  **This is not a guide** it is just a log on how I have managed to make this build and the issues I faced.
 
@@ -46,3 +46,5 @@ This is also depends on your hardware like SSDTs. Read the [OpenCore guide](http
 Read [the documentation for OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) to make this properly.
 
 Note: I did apply the [AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla/) patches
+
+**!!⚠ WARNING ⚠!!** This repo is for Educational Purposes only. I am not resposible for any damage done to your machine. 
