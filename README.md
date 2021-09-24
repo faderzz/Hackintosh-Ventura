@@ -1,3 +1,5 @@
+
+
 # Hackintosh with an AMD CPU and GPU 
 **[WIP - Do not follow these instructions as it is not complete.]**
  
@@ -12,11 +14,35 @@
  - **Storage:** 3TB Hitachi HDD
  - **Second Storage Device:** 256GB Corsair Force MP510 M.2 SSD
 
-## How-to create the Hackintosh Build
+## Tools and Downloads
+- [ProperTree](https://github.com/corpnewt/ProperTree) - To edit config.plist
+- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - To generate SMBIOS
+- [GibMacOS](https://github.com/corpnewt/gibMacOS) - Download Big Sur directly from Apple and make a installation USB.
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg/releases) - OpenCore
+- [OpenCore Documentation](https://dortania.github.io/OpenCore-Install-Guide/) - OpenCore guide
+- [AMD Vanilla](https://github.com/AMD-OSX/AMD_Vanilla/) - Patches for AMD Hardware, read the repo for more info.
 
-WIP
+## SSDTs
+Check the OpenCore guide as this is different for every CPU. Read the [OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/) for more info.
 
-```
-  n/a
-```
-    
+## Drivers
+These should be the only drivers in **EFI > OC > DRIVERS**
+- HFSPlus.efi
+- OpenRuntime.efi
+
+## Kexts
+This is also depends on your hardware like SSDTs. Read the [OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/) for more info.
+**My kexts are the following:**
+
+- AppleALC
+- AppleMCEReporterDisabler
+- Lilu
+- NVMeFix
+- RealtekRTL8111
+- VirtualSMC
+- WhateverGreen
+
+## config.plist
+Read [the documentation for OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) to make this properly.
+
+Note: I did apply the [AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla/) patches
