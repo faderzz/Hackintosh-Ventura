@@ -19,9 +19,8 @@
 ## Tools and Downloads
 - [ProperTree](https://github.com/corpnewt/ProperTree) - To edit config.plist
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - To generate SMBIOS
-- [GibMacOS](https://github.com/corpnewt/gibMacOS) - Download Big Sur directly from Apple and make a installation USB.
+- [Big Sur Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#making-the-installer) - Docs for Big Sur Installation with OpenCore
 - [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg/releases) - OpenCore
-- [OpenCore Documentation](https://dortania.github.io/OpenCore-Install-Guide/) - OpenCore guide
 - [AMD Vanilla](https://github.com/AMD-OSX/AMD_Vanilla/) - Patches for AMD Hardware, read the repo for more info.
 
 ## SSDTs
