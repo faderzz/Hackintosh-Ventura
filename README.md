@@ -1,5 +1,4 @@
 
-
 # Hackintosh with an AMD CPU and GPU 
 **[WIP]**
  
@@ -46,6 +45,11 @@ This is also depends on your hardware like SSDTs. Read the [OpenCore guide](http
 ## config.plist
 Read [the documentation for OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) to make this properly.
 
-Note: I did apply the [AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla/) patches
+**Note:** I did apply the [AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla/) patches
+
+## Troubleshooting
+I tried using GibMacOS to download MacOS Big Sur, format my USB, and install OpenCore but this did not work due to Big Sur images being built differently now. (Fuck you Apple 😭)
+
+## 
 
 **!!⚠ WARNING ⚠!!** This repo is for Educational Purposes only. I am not resposible for any damage done to your machine. 
