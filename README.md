@@ -3,7 +3,9 @@
 # Hackintosh with an AMD CPU and GPU 
 **[WIP]**
  
- **This is not a guide** it is just a log on how I have managed to make this build and the issues I faced.
+ **This is not a guide** it is just a log on how I have managed to make this build and the issues I faced. 
+
+**I have not booted into the USB as I have not finished this build yet** I do not know if I have built this correctly or not.
 
 
 ## Hackintosh Build Specs:
