@@ -4,7 +4,8 @@
  
  **This is not a guide** it is just a log on how I have managed to make this build and the issues I faced. 
 
-**UPDATE:** I have managed to revive this project. I have had to buy a sata cable and a new harddrive for this project.
+**UPDATE:** I have managed to revive this project. I have had to buy a sata cable and a new hard-drive for this project.
+I have removed the outdated information since I'll be doing this from scratch.
 
 ## Hackintosh Build Specs:
 
