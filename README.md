@@ -1,4 +1,3 @@
-
 # Hackintosh with an AMD CPU and GPU 
 **[WIP]**
  
@@ -8,6 +7,10 @@
 I have removed the outdated information since I'll be doing this from scratch.
 
 **UPDATE 2:** No this is not dead, I have managed to get Big Sur installed but I'm currently troubleshooting Montrery. I don't want to be forced to buy an SSD right now. I will post the config.plist for my Big Sur setup soon.
+
+For an XFX RX 590, you will need to flash a PowerColor BIOS which should be done at your own risk. Otherwise Mac OS won't recognise your GPU.
+
+I have used [this guide](https://www.tonymacx86.com/threads/xfx-rx-590-not-working-on-mojave.266821/post-1968190) to flash my GPU's BIOS. **REMEMBER TO BACKUP YOUR BIOS, IF YOU DO BRICK YOUR GPU THEN USE THE PHYSICAL SWITCH ON YOUR GPU TO SWITCH TO AN ORIGINAL BIOS.**
 
 ## Hackintosh Build Specs:
 
