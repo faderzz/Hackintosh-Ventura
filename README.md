@@ -7,6 +7,8 @@
 **UPDATE:** I have managed to revive this project. I have had to buy a sata cable and a new hard-drive for this project.
 I have removed the outdated information since I'll be doing this from scratch.
 
+**UPDATE 2:** No this is not dead, I have managed to get Big Sur installed but I'm currently troubleshooting Montrery. I don't want to be forced to buy an SSD right now.
+
 ## Hackintosh Build Specs:
 
  - **Motherboard:** ASUS Prime B450+
